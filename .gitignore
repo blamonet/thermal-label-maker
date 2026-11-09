@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Local-only return address config
+label_config.local.json
+
+# Generated outputs
+*.pdf
+docs/.tmp_*.csv
